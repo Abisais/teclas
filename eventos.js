@@ -51,3 +51,5 @@ function dibujarTeclado(evento){
 			console.log("otra tecla");
 	}
 }
+
+alert("Cambiando el cógido");
